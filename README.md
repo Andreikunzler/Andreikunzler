@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
-Analista de Projetos <a href="https://www.growdev.com.br"</a> &copy;Growdev </a>
+Analista de Projetos Eletricos
   </p>
 
 
