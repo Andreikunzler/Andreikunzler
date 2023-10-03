@@ -6,8 +6,7 @@
 </p>
 
 <p align="left"> 
-Analista de Projetos Eletricos
-  </p>
+Analista de Projetos Eletricos </p>
 
 
 <p align="left">
