@@ -6,8 +6,7 @@
 </p>
 
 <p align="left"> 
-Tech Helper |
- Full Stack web Developer <a href="https://www.growdev.com.br"</a> &copy;Growdev </a>
+Analista de Projetos <a href="https://www.growdev.com.br"</a> &copy;Growdev </a>
   </p>
 
 
